@@ -1,0 +1,18 @@
+// Añade los keyframes para los animation que necesites en este archivo
+
+@keyframes aparecer{
+
+    0%{
+        opacity: 0;
+    }
+    25%{
+        opacity: 1;
+    }
+    75%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+
+}

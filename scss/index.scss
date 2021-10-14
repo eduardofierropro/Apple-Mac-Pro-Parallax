@@ -1,0 +1,11 @@
+@import "reset/variables", "reset/reset", "reset/mixins", "reset/keyframes";
+
+body{
+  min-height: 47000px;
+  background-color: black;
+}
+
+video{
+  position: fixed;
+  top:0;
+}
