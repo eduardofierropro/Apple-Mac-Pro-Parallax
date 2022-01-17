@@ -5,16 +5,14 @@ Este código no ha sido probado para tener soporte crossbrowsing ni está pensad
 
 Si te ha gustado o te ha servido este código coméntalo en un directo, sígueme por Twitch o Youtube 😊
 
+## URL para ver el resultado
+Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/Apple-Mac-Pro-Parallax/](https://eduardofierropro.github.io/Apple-Mac-Pro-Parallax/)
+
 ## Tiempo de programación ⏰
 Este ejemplo ha sido en los 15 minutos de grabación del vídeo mientras explicaba.
 
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
-
-## Construido con 🛠️
-* [HTML5]
-* [SASS]
-* [VanillaJS]
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
