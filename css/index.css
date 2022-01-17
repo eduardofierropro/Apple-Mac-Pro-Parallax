@@ -7,7 +7,6 @@
   padding: 0;
   border: 0;
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
           box-sizing: border-box;
   vertical-align: baseline;
 }
@@ -24,8 +23,6 @@ img {
 
 a {
   display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
   display: -ms-flexbox;
   display: flex;
   text-decoration: none;
@@ -35,8 +32,6 @@ a {
 video {
   width: 100%;
   display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
   display: -ms-flexbox;
   display: flex;
   -o-object-fit: cover;
@@ -47,8 +42,6 @@ video {
 
 audio {
   display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
   display: -ms-flexbox;
   display: flex;
 }
@@ -73,7 +66,6 @@ html {
 body {
   font: normal normal normal 100%/140% Fakt Pro Medium, "Roboto", sans-serif;
   -webkit-hyphens: auto;
-     -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
   color: #181818;
@@ -83,7 +75,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   -webkit-hyphens: auto;
-     -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
   color: inherit;
@@ -94,7 +85,6 @@ h1, h2, h3, h4, h5, h6 {
 form input, form textarea, form select {
   font: normal normal normal 100%/140% Fakt Pro Medium, "Roboto", sans-serif;
   -webkit-hyphens: auto;
-     -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
   background-color: transparent;
@@ -105,36 +95,6 @@ form input, form textarea, form select {
 }
 
 @-webkit-keyframes aparecer {
-  0% {
-    opacity: 0;
-  }
-  25% {
-    opacity: 1;
-  }
-  75% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
-@-moz-keyframes aparecer {
-  0% {
-    opacity: 0;
-  }
-  25% {
-    opacity: 1;
-  }
-  75% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
-@-o-keyframes aparecer {
   0% {
     opacity: 0;
   }
@@ -164,7 +124,7 @@ form input, form textarea, form select {
   }
 }
 body {
-  min-height: 47000px;
+  min-height: 700vh;
   background-color: black;
 }
 

@@ -1,7 +1,7 @@
-@import "reset/variables", "reset/reset", "reset/mixins", "reset/keyframes";
+@import "imports/_variables", "imports/_reset", "imports/_mixins", "imports/_keyframes";
 
 body{
-  min-height: 47000px;
+  min-height: 700vh;
   background-color: black;
 }
 
