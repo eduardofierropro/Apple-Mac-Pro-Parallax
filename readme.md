@@ -27,6 +27,14 @@ Si te ha gustado o te ha servido este código coméntalo en un directo, sígueme
 >
 > No lo uses en tu propio portfolio sino como referencia o práctica
 
+## 📐 Vídeos y repositorios de otras explicaciones
+
+| Nombre | Youtube | Github | Github Pages |
+|--|--|--|--|
+|Piet Mondrian y el desarrollo web|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=1hDGvWJXzqM)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/pietmondrian/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/pietmondrian/)|
+|Mac Pro Parallax en jQuery|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=8yUGkNZhN5A)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Apple-Mac-Pro-Parallax/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Apple-Mac-Pro-Parallax/)|
+|AutoLikes con InstaPro|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=BfiQz5d_cJU)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/instapro/)|-|
+
 ## 🔴 Vídeos y repositorios de otras programaciones
 
 | Enlace | Youtube | Github | Github Pages |
