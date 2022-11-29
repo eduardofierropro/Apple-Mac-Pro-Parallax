@@ -71,4 +71,4 @@ Si te ha gustado o te ha servido este código coméntalo en un directo, sígueme
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
